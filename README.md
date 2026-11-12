@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Boopana-M1/DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Boopana-M1/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Boopana-M1/DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Boopana-M1/DSA/tree/master/0242-valid-anagram) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Boopana-M1/DSA/tree/master/0127-word-ladder) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Boopana-M1/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
