@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Boopana-M1/DSA/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Boopana-M1/DSA/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Boopana-M1/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Boopana-M1/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
