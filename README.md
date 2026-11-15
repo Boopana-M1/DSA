@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Boopana-M1/DSA/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Boopana-M1/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
