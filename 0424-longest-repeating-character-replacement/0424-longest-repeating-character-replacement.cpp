@@ -6,7 +6,6 @@ public:
         int left =0,right=0;
         int max_freq = 0;
 
-
         vector<int>freq(26,0);
         while(right<n)
         {
@@ -24,6 +23,11 @@ public:
                 {
                     freq[s[left]-'A']--;
                     left++;
+                    max_freq = 0;
+                    for(int i:freq)
+                    {
+                       max_freq = max(max_freq,i);
+                    }
                     //at this point i want to update or reduce my change
                 }
             }
