@@ -2,22 +2,33 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
         int n = s.size();
-        int maxfreq = 0,maxLength=0;
-        int left=0,right=0;
+        int ans = 0;
+        int left =0,right=0;
+        int max_freq = 0;
+
+
         vector<int>freq(26,0);
         while(right<n)
         {
-          freq[s[right]-'A']++;
-          maxfreq = max(maxfreq,freq[s[right]-'A']);
-          
-          while((right-left+1)-maxfreq>k)
-          {
-            freq[s[left]-'A']--;
-            left++;
-          }
-          maxLength = max(maxLength, right-left+1);
-          right++;
+            int len = right-left+1;
+            freq[s[right]-'A']++;
+            max_freq = max(max_freq,freq[s[right]-'A']);
+
+            int change = len-max_freq;
+            if(change<=k)
+            {
+                ans = max(ans,len);
+            }
+            else{
+                while((right-left+1)-max_freq >k )
+                {
+                    freq[s[left]-'A']--;
+                    left++;
+                    //at this point i want to update or reduce my change
+                }
+            }
+            right++;
         }
-        return maxLength;
+        return ans;
     }
 };
