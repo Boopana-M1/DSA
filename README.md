@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Boopana-M1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Boopana-M1/DSA/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Boopana-M1/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Boopana-M1/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Boopana-M1/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Boopana-M1/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Boopana-M1/DSA/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Boopana-M1/DSA/tree/master/0007-reverse-integer) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Boopana-M1/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
