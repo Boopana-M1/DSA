@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Boopana-M1/DSA/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/Boopana-M1/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Boopana-M1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0739-daily-temperatures](https://github.com/Boopana-M1/DSA/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Boopana-M1/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Boopana-M1/DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Boopana-M1/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Boopana-M1/DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Boopana-M1/DSA/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
