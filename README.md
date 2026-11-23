@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Boopana-M1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Boopana-M1/DSA/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/Boopana-M1/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Boopana-M1/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Boopana-M1/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Boopana-M1/DSA/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/Boopana-M1/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Boopana-M1/DSA/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/Boopana-M1/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Boopana-M1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Boopana-M1/DSA/tree/master/0044-wildcard-matching) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Boopana-M1/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
