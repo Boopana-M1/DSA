@@ -1,19 +1,18 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        vector<int>vec(26,0);
-        char c = 'a';
+        vector<int>arr(26,0);
         for(char c:s)
         {
-            vec[c-'a']++;
+            arr[c-'a']++;
         }
         for(char c:t)
         {
-            vec[c-'a']--;
+            arr[c-'a']--;
         }
-        for(int i=0;i<26;i++)
+        for(int i:arr)
         {
-            if(vec[i]!=0)return false;
+            if(i!=0)return false;
         }
         return true;
     }
