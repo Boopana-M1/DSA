@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Boopana-M1/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Boopana-M1/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Boopana-M1/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/Boopana-M1/DSA/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Boopana-M1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Boopana-M1/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Boopana-M1/DSA/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/Boopana-M1/DSA/tree/master/0621-task-scheduler) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Boopana-M1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Boopana-M1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Boopana-M1/DSA/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/Boopana-M1/DSA/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Boopana-M1/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Boopana-M1/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Boopana-M1/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Boopana-M1/DSA/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/Boopana-M1/DSA/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/Boopana-M1/DSA/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,8 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Boopana-M1/DSA/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Boopana-M1/DSA/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Boopana-M1/DSA/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Boopana-M1/DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
